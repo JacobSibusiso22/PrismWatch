@@ -1,26 +1,4 @@
-# Project Name
-
-## Problem
-What business problem does this solve?
-
-## Solution
-How does the solution work?
-
-## Technology
-- Python
-- Blue Prism
-- SQL Server
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Installation
-
-## Usage
-
-## Screenshots# PrismWatch
+# PrismWatch
 
 ## Problem
 
