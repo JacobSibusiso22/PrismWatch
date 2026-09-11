@@ -1,0 +1,46 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Build
+build/
+dist/
+
+# Database
+*.db
+
+# Excel Exports
+Reports/
+Exports/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
